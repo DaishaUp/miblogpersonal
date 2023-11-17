@@ -5,15 +5,7 @@ body {
   padding: 0;
 }
 
-header {
-  background-color: #333;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  .header-buttons {
-  text-align: center;
-  margin-top: 20px;
-}
+
 
 .btn-header {
   display: inline-block;
