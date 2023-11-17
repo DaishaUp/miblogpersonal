@@ -10,8 +10,7 @@ header {
   color: white;
   padding: 20px;
   text-align: center;
-}
-.header-buttons {
+  .header-buttons {
   text-align: center;
   margin-top: 20px;
 }
@@ -30,6 +29,8 @@ header {
 .btn-header:hover {
   background-color: #555;
 }
+}
+
 
 nav ul {
   list-style: none;
