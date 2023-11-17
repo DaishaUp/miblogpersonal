@@ -11,6 +11,25 @@ header {
   padding: 20px;
   text-align: center;
 }
+.header-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn-header {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-right: 10px;
+  text-decoration: none;
+  background-color: #333;
+  color: white;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-header:hover {
+  background-color: #555;
+}
 
 nav ul {
   list-style: none;
